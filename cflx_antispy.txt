@@ -6,6 +6,14 @@
 #
 # Make sure to also use the extra RegEx list at https://perflyst.github.io/PiHoleBlocklist/regex.list, which helps remove regional LG ad domains among other things.
 
+#
+# ██████ ███████ ██      ██   ██      █████  ███    ██ ████████ ██       ███████ ██████  ██    ██ 
+#██      ██      ██       ██ ██      ██   ██ ████   ██    ██    ██       ██      ██   ██  ██  ██  
+#██      █████   ██        ███       ███████ ██ ██  ██    ██    ██ █████ ███████ ██████    ████   
+#██      ██      ██       ██ ██      ██   ██ ██  ██ ██    ██    ██            ██ ██         ██    
+# ██████ ██      ███████ ██   ██     ██   ██ ██   ████    ██    ██       ███████ ██         ██    v.1.2
+#                                                                                                
+                                                                                                 
 # Panasonic Viera & panny tv
 ||0077777700140002.myhomescreen.tv^
 ||collect.myhomescreen.tv^
