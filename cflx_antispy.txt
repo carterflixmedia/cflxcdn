@@ -19,6 +19,9 @@
 ||collect.myhomescreen.tv^
 ||usage.myhomescreen.tv^
 
+# Crestron API
+||api.my.crestron.com^
+
 # if blocked, notified of new firmware but unable to download/install
 # vcs.vdspf.com^
 ||x2.vindicosuite.com^
