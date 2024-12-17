@@ -1,5 +1,5 @@
-# TITLE: SmartTV Anti-Spy Blocklist v.1.4
-# VERSION: October 10, 2024
+# TITLE: SmartTV Anti-Spy Blocklist v.1.5
+# VERSION: December 17, 2024
 #
 # DESCRIPTION: This is a blocklist to block SmartTVs from sending metadata back home
 # sometimes with the added benefit of blocking interface ads for apps and movie services.
@@ -11,8 +11,11 @@
 #██      ██      ██       ██ ██      ██   ██ ████   ██    ██    ██       ██      ██   ██  ██  ██  
 #██      █████   ██        ███       ███████ ██ ██  ██    ██    ██ █████ ███████ ██████    ████   
 #██      ██      ██       ██ ██      ██   ██ ██  ██ ██    ██    ██            ██ ██         ██    
-# ██████ ██      ███████ ██   ██     ██   ██ ██   ████    ██    ██       ███████ ██         ██    v.1.4
+# ██████ ██      ███████ ██   ██     ██   ██ ██   ████    ██    ██       ███████ ██         ██    v.1.5
 #                                                                                                
+#Enbrighten Smart-Plug Block 12/17/2024
+||a3.tuyaus.com^
+||m2.tuyaus.com^
 
 #BM2 Blocks 10/10/2024
 ||wanproxy-hz.127.net
