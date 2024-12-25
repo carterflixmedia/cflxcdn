@@ -164,7 +164,7 @@
 ||oempprd.samsungcloudsolution.net^
 ||prderrordumphsm.samsungcloudsolution.com^
 ||openapi.samsung.com^
-#osb.samsungqbe.com
+# osb.samsungqbe.com
 ||pavv.co.kr^
 ||pipeaota.com^
 ||prov.samsungcloudsolution.com^
@@ -172,9 +172,9 @@
 ||rwww.samsungotn.net^
 ||samsungacr.com^
 ||samsungadhub.com^
-||samsungcloudsolution.com^
-||samsungcloudsolution.net^
-#samsungqbe.com
+# samsungcloudsolution.com
+# samsungcloudsolution.net
+# samsungqbe.com
 # samsungrm.net^ # https://raw.githubusercontent.com/notracking/hosts||blocklists||scripts/master/hostnames.whitelist.txt
 ||sas.samsungcloudsolution.com^
 ||sca.samsung.com^
